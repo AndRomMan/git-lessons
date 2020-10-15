@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+.vscode
+*.ai
+*.log
+*.pdf
+*.psd
+*.sublime*
+build/
+arch/
+node_modules/
+npm-debug.*
+Thumbs.db
+# путь от корня! /*.txt ; /doc/setting/*.txt = doc/setting/*.txt
